@@ -1,0 +1,8 @@
+requests
+djangorestframework-jwt
+django
+django-environ
+djangorestframework
+django-cors-headers
+# pip_modules\mysqlclient-1.3.13-cp36-cp36m-win_amd64.whl
+mysqlclient
